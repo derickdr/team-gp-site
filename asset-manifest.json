@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.460d65f6.chunk.css",
-    "main.js": "/static/js/main.c2d3f1ab.chunk.js",
-    "main.js.map": "/static/js/main.c2d3f1ab.chunk.js.map",
+    "main.css": "/static/css/main.07a24014.chunk.css",
+    "main.js": "/static/js/main.36acec28.chunk.js",
+    "main.js.map": "/static/js/main.36acec28.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c656ff25.js",
     "runtime-main.js.map": "/static/js/runtime-main.c656ff25.js.map",
-    "static/js/2.66690091.chunk.js": "/static/js/2.66690091.chunk.js",
-    "static/js/2.66690091.chunk.js.map": "/static/js/2.66690091.chunk.js.map",
+    "static/js/2.c85c4009.chunk.js": "/static/js/2.c85c4009.chunk.js",
+    "static/js/2.c85c4009.chunk.js.map": "/static/js/2.c85c4009.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.460d65f6.chunk.css.map": "/static/css/main.460d65f6.chunk.css.map",
-    "static/js/2.66690091.chunk.js.LICENSE.txt": "/static/js/2.66690091.chunk.js.LICENSE.txt",
+    "static/css/main.07a24014.chunk.css.map": "/static/css/main.07a24014.chunk.css.map",
+    "static/js/2.c85c4009.chunk.js.LICENSE.txt": "/static/js/2.c85c4009.chunk.js.LICENSE.txt",
+    "static/media/pcforman-logo.1b825579.png": "/static/media/pcforman-logo.1b825579.png",
     "static/media/teamgp-logo.a64ab29b.png": "/static/media/teamgp-logo.a64ab29b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c656ff25.js",
-    "static/js/2.66690091.chunk.js",
-    "static/css/main.460d65f6.chunk.css",
-    "static/js/main.c2d3f1ab.chunk.js"
+    "static/js/2.c85c4009.chunk.js",
+    "static/css/main.07a24014.chunk.css",
+    "static/js/main.36acec28.chunk.js"
   ]
 }
